@@ -1,0 +1,4 @@
+ceast
+=====
+
+very fast
